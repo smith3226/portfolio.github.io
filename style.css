@@ -45,7 +45,7 @@ body {
 }
 
 body.dark {
-	background: #010f31;;
+	background: #010f31;
    
 }
 
@@ -521,6 +521,29 @@ section {
 
 /* portfolio section  */
 
+.portfolio h3{
+  color: white;
+  margin-top: 3%;
+  font-size: 3rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.portfolio .heading1{
+  color: white;
+  margin-top: 3%;
+  font-size: 3rem;
+  text-align: center;
+  justify-content: center;
+}
+
+
+
+.portfolio .hr{
+  border-bottom: 1px solid grey;
+  width: 50%;
+  margin:auto
+}
 .portfolio .box-container{
   display: flex;
   align-items: center;
